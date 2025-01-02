@@ -51,7 +51,7 @@ version without needing to manually select the correct version for each crate.
 
 [Polkadot SDK Version Manager](https://github.com/paritytech/psvm):
 A simple tool to manage and update the Polkadot SDK dependencies in any Cargo.toml file.
-It will automatically update the Polkadot SDK dependencies to their correct crates.io version.
+It will automatically update the Polkadot SDK dependencies to their correct crates.io version. 
 
 ## 🔐 Security
 
